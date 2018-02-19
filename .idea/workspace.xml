@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5fefa84-1543-4ad4-9be0-b74c7f7e543c" name="Default" comment="" />
+    <list default="true" id="b5fefa84-1543-4ad4-9be0-b74c7f7e543c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/esir/App.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/esir/App.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/esir/class-use/App.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/esir/class-use/App.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/esir/package-use.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="$PROJECT_DIR$/target/site/dependencies.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="$PROJECT_DIR$/target/site/dependency-convergence.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="$PROJECT_DIR$/target/site/index.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="$PROJECT_DIR$/target/site/plugins.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="$PROJECT_DIR$/target/site/project-info.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" afterPath="$PROJECT_DIR$/target/site/project-reports.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="$PROJECT_DIR$/target/site/project-summary.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/AppTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/AppTest.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/class-use/AppTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/class-use/AppTest.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-frame.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-summary.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-summary.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-tree.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-use.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/esir/package-use.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index.html" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,14 +58,17 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -54,6 +100,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -199,16 +246,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518775309713</updated>
-      <workItem from="1518775317807" duration="813000" />
+      <workItem from="1518775317807" duration="2229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="813000" />
+    <option name="totallyTimeSpent" value="2229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="40" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -218,7 +264,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -251,8 +297,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding />
         </state>
       </provider>

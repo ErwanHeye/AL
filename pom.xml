@@ -7,6 +7,16 @@
   <version>1</version>
   <name>tpmaven</name>
   <url>http://maven.apache.org</url>
+      <developers>
+          <developer>
+              <name>Heye Erwan</name>
+              <email>erwanheye@gmail.com</email>
+              <roles>
+                  <role>admin</role>
+                  <role>developer</role>
+              </roles>
+          </developer>
+      </developers>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -37,6 +47,37 @@
                   <artifactId>maven-jxr-plugin</artifactId>
                   <version>2.5</version>
               </plugin>
+              <plugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-changelog-plugin</artifactId>
+                  <version>2.3</version>
+              </plugin>
           </plugins>
       </reporting>
+      <scm>
+      <connection>scm:git:file://${project.basedir}</connection>
+	  </scm>
+	  <build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.7.0/version>
+				<configuration>
+					<source>${maven.compiler.source}</source>
+					<target>${maven.compiler.target}</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.2</version>
+				<configuration>
+				  <archive>
+					<manifestFile>${project.build.outputDirectory}/META-INF/MANIFEST.MF</manifestFile>
+				  </archive>
+				</configuration>
+		  </plugin>
+		</plugins>
+	</build>
 </project>
