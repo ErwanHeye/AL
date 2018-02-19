@@ -1,6 +1,0 @@
-projectKey=fr.esir:tpmaven
-serverUrl=http://localhost:9000
-serverVersion=7.0.0.36138
-dashboardUrl=http://localhost:9000/dashboard/index/fr.esir:tpmaven
-ceTaskId=AWGtjgdV19Du0x0o6Xga
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWGtjgdV19Du0x0o6Xga
