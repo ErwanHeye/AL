@@ -71,10 +71,11 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.0.2</version>
                 <configuration>
-                <manifest>
+                    <archive>
               <addClasspath>true</addClasspath>
 				<mainClass>App.class</mainClass>
-				</manifest>
+                        <manifestFile>${project.build.outputDirectory}/META-INF/MANIFEST.MF</manifestFile>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>
