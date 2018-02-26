@@ -65,6 +65,19 @@
                     <target>${maven.compiler.target}</target>
                 </configuration>
             </plugin>
+			<plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+							<addClasspath>true</addClasspath>
+                            <mainClass>fr.esir.App</mainClass>
+                        </manifest>
+                        <manifestFile>${project.build.outputDirectory}/META-INF/MANIFEST.MF</manifestFile>
+                    </archive>
+                </configuration>
+            </plugin>
         </plugins>
     </reporting>
     <build>
@@ -75,9 +88,10 @@
                 <configuration>
                     <archive>
                         <manifest>
+							<addClasspath>true</addClasspath>
                             <mainClass>fr.esir.App</mainClass>
                         </manifest>
-                        <manifestFile>${project.build.outputDirectory}/META-INF/MANIFEST.MF</manifestFile>
+                  
                     </archive>
                 </configuration>
             </plugin>
