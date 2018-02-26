@@ -23,7 +23,7 @@ pipeline {
 		}
 		stage('Archive') {
 			steps {
-				archiveArtifacts(artifacts: '')
+				archiveArtifacts(artifacts: '**')
 			}
 		}
 		
