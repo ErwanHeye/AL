@@ -1,8 +1,1 @@
-target
-*.iml
-.idea
-.idea/workspace.xml
-AL.iml
-target/site/changelog.html
-.idea/workspace.xml
-.idea/workspace.xml
+git filter-branch --force --index-filter \ 'git rm -r --cached --ignore-unmatch target' \ --prune-empty --tag-name-filter cat -- --all
